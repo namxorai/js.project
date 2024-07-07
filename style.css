@@ -61,5 +61,6 @@ li.completed{
 }
 
 li:hover{
-    background-color: #f2f2f2;
+    background-color:tomato;
+    color: white;
 }
